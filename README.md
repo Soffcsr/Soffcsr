@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola! Soy Sofi 👋
+![Purple Gradient Consistency Success Motivational Word Banner](https://github.com/Soffcsr/Soffcsr/assets/14961209/30da26a2-d44f-48b7-97b9-b299bf12391d)
 
 <!--
 **Soffcsr/Soffcsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
