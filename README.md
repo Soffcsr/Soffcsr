@@ -1,6 +1,7 @@
 ### Hola! Soy Sofi 👋
 ![Purple Gradient Consistency Success Motivational Word Banner](https://github.com/Soffcsr/Soffcsr/assets/14961209/30da26a2-d44f-48b7-97b9-b299bf12391d)
 
+Soy ingeniera en sistemas especializada en el desarrollo de software. Mi trayectoria se ha centrado en la creacion y desarrollo de soluciones innovadoras y eficientes. He trabajado en una aplia gama de proyectos, desde aplicaciones web sencillas hasta sistemas de gestion de datos a gran escala. Me apasiona resolver problemas complejos y enfrentar desafíos técnicos que requieren soluciones creativas.
 <!--
 **Soffcsr/Soffcsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
